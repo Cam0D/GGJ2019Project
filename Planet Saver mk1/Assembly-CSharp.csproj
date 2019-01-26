@@ -60,25 +60,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\dudeMove.cs" />
-    <Compile Include="Assets\Scripts\Meteor.cs" />
-    <Compile Include="Assets\Scripts\planetScript.cs" />
-    <Compile Include="Assets\Scripts\SpawnerScript.cs" />
-    <Compile Include="Assets\Scripts\Weapon.cs" />
+    <Compile Include="Assets\scripts\dudeMove.cs" />
+    <Compile Include="Assets\scripts\Meteor.cs" />
+    <Compile Include="Assets\scripts\planetScript.cs" />
+    <Compile Include="Assets\scripts\SpawnerScript.cs" />
+    <Compile Include="Assets\scripts\Weapon.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/scdodds/scdodd/GitHub/GGJ2019Project/Planet Saver mk1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/scdodds/scdodd/GGJ2019Project/Planet Saver mk1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/scdodds/scdodd/GitHub/GGJ2019Project/Planet Saver mk1/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/scdodds/scdodd/GGJ2019Project/Planet Saver mk1/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/scdodds/scdodd/GitHub/GGJ2019Project/Planet Saver mk1/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/scdodds/scdodd/GGJ2019Project/Planet Saver mk1/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/scdodds/scdodd/GitHub/GGJ2019Project/Planet Saver mk1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/scdodds/scdodd/GGJ2019Project/Planet Saver mk1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/scdodds/scdodd/GitHub/GGJ2019Project/Planet Saver mk1/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>D:/scdodds/scdodd/GGJ2019Project/Planet Saver mk1/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/program files/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -282,13 +282,13 @@
       <HintPath>D:/program files/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/scdodds/scdodd/GitHub/GGJ2019Project/Planet Saver mk1/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/scdodds/scdodd/GGJ2019Project/Planet Saver mk1/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/scdodds/scdodd/GitHub/GGJ2019Project/Planet Saver mk1/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/scdodds/scdodd/GGJ2019Project/Planet Saver mk1/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/scdodds/scdodd/GitHub/GGJ2019Project/Planet Saver mk1/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/scdodds/scdodd/GGJ2019Project/Planet Saver mk1/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:/program files/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
